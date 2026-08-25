@@ -8,9 +8,9 @@ A developer exploring the intersection of AI and data.
 
 ### 🔭 Currently Building / 正在做
 
-- **AI Copywriting Tool** — 三语社媒文案生成器（中/英/粤）
-- **Social Media Analyzer** — 社媒数据分析与可视化
-- **Automation Workflow Engine** — 轻量级 AI 自动化工作流
+- **AI Copywriting Tool** — 三语社媒文案生成器（中/英/粤） [Live Demo](https://portfolio-projects-hhqpm6fcbqyatir4qxjxcc.streamlit.app/)
+- **Social Media Analyzer** — 社媒数据分析与可视化（开发中）
+- **Automation Workflow Engine** — 轻量级 AI 自动化工作流（规划中）
 
 ### 🌱 Learning / 正在学
 
@@ -30,12 +30,12 @@ A developer exploring the intersection of AI and data.
 
 | Repo | Description |
 |------|-------------|
-| [portfolio-projects](https://github.com/xi195072-a11y/portfolio-projects) | 3 个 AI 实战作品集 |
+| [portfolio-projects](https://github.com/xi195072-a11y/portfolio-projects) | 3 个 AI 实战作品集 · 01 已上线 [Live Demo](https://portfolio-projects-hhqpm6fcbqyatir4qxjxcc.streamlit.app/) |
 | [knowledge-base](https://github.com/xi195072-a11y/knowledge-base) | Obsidian 知识库 — 学习笔记、博主观点、面试准备 |
 
 ### 🛠 Tech Stack / 技术栈
 
-`Python 3.12` · `Gradio` · `DeepSeek API` · `Pandas` · `Git` · `Obsidian`
+`Python 3.12` · `Streamlit` · `DeepSeek API` · `Pandas` · `Git` · `Obsidian`
 
 ### 🔗 Tool Chain / 工具链
 
