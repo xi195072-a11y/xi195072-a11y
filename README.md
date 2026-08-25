@@ -2,7 +2,7 @@
 
 A developer exploring the intersection of AI and data.
 
-一名探索 AI 与数据交叉领域的开发者。
+一名探索 AI 与数据交叉领域的开发者，兼二次元死宅。
 
 ---
 
@@ -37,11 +37,12 @@ A developer exploring the intersection of AI and data.
 - Building in public with indie dev community
 - Following: 宝玉、熠辉、苍何、刘小排
 
-### 💬 Ask Me About / 可以聊
+###  Ask Me About / 可以聊
 
-- Python · Gradio · DeepSeek API
+- Python · Streamlit · DeepSeek API
 - AI workflows & automation
 - Data analysis & visualization
+- 二游：原神 · 崩铁 · 绝区零 · 偶像大师
 
 ---
 
