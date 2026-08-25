@@ -6,6 +6,25 @@ A developer exploring the intersection of AI and data.
 
 ---
 
+### 🛠 Tech Stack / 技术栈
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red?logo=streamlit&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-API-green?logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data-blue?logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version-orange?logo=git&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-Knowledge-purple?logo=obsidian&logoColor=white)
+
+---
+
+### 📊 GitHub Stats / 数据
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xi195072-a11y&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xi195072-a11y&layout=compact&theme=radical&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=xi195072-a11y&theme=radical&hide_border=true)
+
+---
+
 ### 🔭 Currently Building / 正在做
 
 - **AI Copywriting Tool** — 三语社媒文案生成器（中/英/粤） [Live Demo](https://portfolio-projects-hhqpm6fcbqyatir4qxjxcc.streamlit.app/)
@@ -32,10 +51,6 @@ A developer exploring the intersection of AI and data.
 |------|-------------|
 | [portfolio-projects](https://github.com/xi195072-a11y/portfolio-projects) | 3 个 AI 实战作品集 · 01 已上线 [Live Demo](https://portfolio-projects-hhqpm6fcbqyatir4qxjxcc.streamlit.app/) |
 | [knowledge-base](https://github.com/xi195072-a11y/knowledge-base) | Obsidian 知识库 — 学习笔记、博主观点、面试准备 |
-
-### 🛠 Tech Stack / 技术栈
-
-`Python 3.12` · `Streamlit` · `DeepSeek API` · `Pandas` · `Git` · `Obsidian`
 
 ### 🔗 Tool Chain / 工具链
 
