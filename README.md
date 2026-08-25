@@ -78,4 +78,16 @@ A developer exploring the intersection of AI and data.
 
 ---
 
+### 💬 欢迎交流 / Welcome to Connect
+
+欢迎对我的所有项目提出毒辣的意见，如果能够给个 ⭐ 更是感激不尽。
+
+你的一切认可与诋毁都是我进步的动力。
+
+Feel free to roast my projects — brutal honesty welcome! A ⭐ would mean the world to me.
+
+Your feedback (good or bad) fuels my growth.
+
+---
+
 *Built with ❤️ and a lot of AI assistance.*
