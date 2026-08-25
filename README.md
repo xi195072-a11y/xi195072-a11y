@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Jiaxi%20/%20小希&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20Developer%20·%20二次元死宅&descSize=20&descColor=a0a0a0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Jiaxi%20/%20小希&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20Developer&descSize=22&descColor=a0a0a0" />
 </p>
 
 <p align="center">
   <i>
-    <b>AI 开发者</b> / <b>二次元死宅</b> / <b>原神玩家</b> / <b>崩铁肝帝</b> / <b>绝区零等新版本</b> / <b>偶像大师推七草日花</b>
+    <b>AI 开发者</b> / <b>死宅</b> / <b>原神 · 崩铁 · 绝区零 · 偶像大师</b>
   </i>
 </p>
 
