@@ -15,6 +15,10 @@ A developer exploring the intersection of AI and data.
 ![Git](https://img.shields.io/badge/Git-Version-orange?logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-Knowledge-purple?logo=obsidian&logoColor=white)
 
+> 💸 此人太穷所以暂时只用国产模型，有米了就用其他的 😅
+>
+> Currently running on domestic models only — will upgrade when funded 😂
+
 ---
 
 ### 📊 GitHub Stats / 数据
