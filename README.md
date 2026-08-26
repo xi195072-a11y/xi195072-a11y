@@ -76,7 +76,39 @@ A developer exploring the intersection of AI and data.
 | Repo | Description |
 |------|-------------|
 | [portfolio-projects](https://github.com/xi195072-a11y/portfolio-projects) | 3 个 AI 实战作品集 · 01 已上线 [Live Demo](https://portfolio-projects-hhqpm6fcbqyatir4qxjxcc.streamlit.app/) |
-| [knowledge-base](https://github.com/xi195072-a11y/knowledge-base) | Obsidian 知识库 — 学习笔记、博主观点、面试准备 |
+| [knowledge-base](https://github.com/xi195072-a11y/knowledge-base) | Obsidian 知识库 — 4 篇博主笔记 + 17 篇学习笔记，全部双链关联 |
+
+###  Knowledge Base / 知识库精选
+
+<details>
+<summary> 点击展开学习笔记列表（17 篇）</summary>
+
+**AI 开发核心**
+- [从零理解 AI 开发](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/从零理解AI开发-完整项目构成与企业落地.md) — 完整项目构成与企业落地
+- [RAG 技术详解](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/RAG技术详解-给AI加知识库.md) — 给 AI 加知识库
+- [Agent 开发详解](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/Agent开发详解-让AI能调用工具.md) — 让 AI 能调用工具
+- [产品思维详解](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/产品思维详解-从需求出发做AI产品.md) — 从需求出发做 AI 产品
+- [AI 开发学习路径总结](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/AI开发学习路径总结-从零到完整项目.md) — 从零到完整项目
+
+**实战代码**
+- [LangChain + RAG 企业知识库实战代码](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/LangChain-RAG企业知识库实战代码.md)
+- [LangChain v1 实战](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/LangChain-v1实战-构建Agent最佳实践.md) — 构建 Agent 最佳实践
+- [LangGraph 多 Agent 协作实战](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/LangGraph多Agent协作实战.md)
+- [MCP 协议实战](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/MCP协议实战-从入门到构建AI智能体.md) — 从入门到构建 AI 智能体
+
+**行业趋势**
+- [AI 编程与一人公司趋势](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/AI编程与一人公司-2026年8月趋势.md)
+- [Naive: AI 智能体自动开公司](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/Naive-AI智能体自动开公司.md)
+- [Cloudflare OS 与 AI 漫剧案例](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/Cloudflare-OS与AI漫剧一人公司案例.md)
+- [Coze 扣子 & Dify 平台对比](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/Coze扣子-Dify平台对比研究.md)
+- [腾讯 WorkBuddy: AI 数字员工](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/腾讯WorkBuddy-AI数字员工与一人公司4.0.md)
+
+**博主笔记**
+- [苍何 Codex + Obsidian 工作流](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/苍何-Codex-Obsidian公众号工作流.md)
+- [DeepSeek Harness 开源 Agent 框架](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/DeepSeek-Harness-开源Agent框架.md)
+- [一人公司 AI 工具搭建](https://github.com/xi195072-a11y/knowledge-base/blob/main/学习笔记/一人公司AI工具搭建-免费Agent自动化工作流.md)
+
+</details>
 
 ###  Tool Chain / 工具链
 
