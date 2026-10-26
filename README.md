@@ -75,6 +75,8 @@ A developer exploring the intersection of AI and data.
 
 | Repo | Description |
 |------|-------------|
+| [JobFit-Agent](https://github.com/xi195072-a11y/JobFit-Agent) | 求职匹配工具：读岗位描述和简历，打分并记录每次判断的理由。约 360 个自动化测试，GitHub Actions 每次推送都跑 |
+| [django-equipment-management-system](https://github.com/xi195072-a11y/django-equipment-management-system) | 本科毕设：高校精密科研设备管理系统。Django，三种角色，预约审批流程与审计日志 |
 | [portfolio-projects](https://github.com/xi195072-a11y/portfolio-projects) | 3 个 AI 实战作品集 · 01 已上线 [Live Demo](https://portfolio-projects-hhqpm6fcbqyatir4qxjxcc.streamlit.app/) |
 | [knowledge-base](https://github.com/xi195072-a11y/knowledge-base) | Obsidian 知识库 — 4 篇博主笔记 + 17 篇学习笔记，全部双链关联 |
 
